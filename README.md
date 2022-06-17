@@ -6,5 +6,5 @@ $ cd SPAM-SMS-OTP.
 $ pip install requests
 # Start
 $ open spam.exe
-#
+#Python
 $ python spam.py or python3 spam.py

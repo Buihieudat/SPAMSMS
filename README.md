@@ -1,6 +1,6 @@
 # SPAM-SMS-OTP
 
-#setup
+# setup
 $ git clone https://github.com/cochyhung/SPAM-SMS-OTP.git
 $ cd SPAM-SMS-OTP
 $ pip install requests
